@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-swig",
   "description": "A metalsmith plugin process .twig/.swig files",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "main": "lib/index.js",
   "devDependencies": {
