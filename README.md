@@ -1,7 +1,7 @@
 
-# metalsmith-urls
+# metalsmith-swig
 
-  Add file.url, file.absolute_url and metatada.urls map from file.id
+  Compiles twig files using twig (https://github.com/justjohn/twig.js) or swig (http://paularmstrong.github.io/swig/)
 
 ## License
 
