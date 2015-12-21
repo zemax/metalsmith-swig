@@ -1,28 +1,28 @@
 {
-	"name": "metalsmith-swig",
-	"description": "A metalsmith plugin process .twig/.swig files",
-	"version": "1.0.0",
-	"license": "MIT",
-	"main": "lib/index.js",
-	"devDependencies": {
-		"extend": "^2.0.1",
-		"swig": "^1.4.2",
-		"twig": "^0.8.2"
-	},
-	"dependencies": {
-		"extend": "^2.0.1",
-		"swig": "^1.4.2"
-	},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/zemax/metalsmith-swig.git"
-	},
-	"author": "Maxime Cousinou",
-	"bugs": {
-		"url": "https://github.com/zemax/metalsmith-swig/issues"
-	},
-	"homepage": "https://github.com/zemax/metalsmith-swig#readme"
+  "name": "metalsmith-swig",
+  "description": "A metalsmith plugin process .twig/.swig files",
+  "version": "1.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "extend": "^2.0.1",
+    "swig": "^1.4.2",
+    "twig": "^0.8.2"
+  },
+  "dependencies": {
+    "extend": "^2.0.1",
+    "swig": "^1.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemax/metalsmith-swig.git"
+  },
+  "author": "Maxime Cousinou",
+  "bugs": {
+    "url": "https://github.com/zemax/metalsmith-swig/issues"
+  },
+  "homepage": "https://github.com/zemax/metalsmith-swig#readme"
 }
