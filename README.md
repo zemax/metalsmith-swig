@@ -29,6 +29,7 @@ metalsmith( __dirname )
 
 ## Options:
 
+* `locales`: Defines *lang* keyed objects with strings to be used in twig with *trans(key)* (See /test/src/05-trans/05-trans.html.twig)
 * `engine`: *(default: twig)* Set the engine (twig)
 
 ## License
